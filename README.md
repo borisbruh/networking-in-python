@@ -13,3 +13,8 @@ run it in a terminal via:
 ```bash
 python net.py
 ```
+
+
+
+you can go to https://online-python.com
+and just copy paste it all in, and it should work
